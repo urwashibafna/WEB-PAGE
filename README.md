@@ -30,8 +30,7 @@ This repository contains a simple web page project that demonstrates HTML, CSS, 
 
  ### Clone the repository:
    ```bash
-   git clone https://github.com/urwashibafna/WEB-PAGE.git
-
+   git clone https://github.com/urwashibafna/WEB-PAGE.git<\br>
 
 ## Usage
 Feel free to customize the content and styles in the HTML and CSS files to suit your needs.

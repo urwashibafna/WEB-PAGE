@@ -1,4 +1,4 @@
-# WEB-PAGE
+
 # Web Page Project
 
 ## Overview
@@ -28,8 +28,12 @@ This repository contains a simple web page project that demonstrates HTML, CSS, 
 
 ### Installation
 
- ### Clone the repository:
+ ### 1.Clone the repository:
    ```bash
-   git clone https://github.com/urwashibafna/WEB-PAGE.git
+   git clone https://github.com/urwashibafna/WEB-PAGE.git ```
+
+ ### 2.Navigate to the project directory:
+     cd WEB-PAGE
+ ### 3.Open the index.html file in your preferred web browser.
 
 

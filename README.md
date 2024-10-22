@@ -32,8 +32,4 @@ This repository contains a simple web page project that demonstrates HTML, CSS, 
    ```bash
    git clone https://github.com/urwashibafna/WEB-PAGE.git<\br>
 
-## Usage
-Feel free to customize the content and styles in the HTML and CSS files to suit your needs.
-Use the JavaScript file to add interactive features.
-## Contributing
-Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request.
+
